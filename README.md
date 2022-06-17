@@ -16,11 +16,11 @@ Screenshots of the site<br><br>
 Desktop View<br>
 
 ![1](https://github.com/ahmetmetinarslan/keycodegenerator/blob/main/Key%20Code%20Generator/Site%20Screen%20img/1.png?raw=true)<br><br>
-![2]([https://media0.giphy.com/media/Vfz6T1y9pYwH4ERhfV/giphy.gif](https://github.com/ahmetmetinarslan/keycodegenerator/blob/main/Key%20Code%20Generator/Site%20Screen%20img/2.png?raw=true))<br><br>
-![3]([https://media0.giphy.com/media/Vfz6T1y9pYwH4ERhfV/giphy.gif](https://github.com/ahmetmetinarslan/keycodegenerator/blob/main/Key%20Code%20Generator/Site%20Screen%20img/3.png?raw=true))<br><br>
+![2](https://github.com/ahmetmetinarslan/keycodegenerator/blob/main/Key%20Code%20Generator/Site%20Screen%20img/2.png?raw=true)<br><br>
+![3](https://github.com/ahmetmetinarslan/keycodegenerator/blob/main/Key%20Code%20Generator/Site%20Screen%20img/3.png?raw=true)<br><br>
 
 Mobile View<br>
 
-![m-1]([https://media0.giphy.com/media/Vfz6T1y9pYwH4ERhfV/giphy.gif](https://github.com/ahmetmetinarslan/keycodegenerator/blob/main/Key%20Code%20Generator/Site%20Screen%20img/m-1.png?raw=true))<br><br>
-![m-2]([https://media0.giphy.com/media/Vfz6T1y9pYwH4ERhfV/giphy.gif](https://github.com/ahmetmetinarslan/keycodegenerator/blob/main/Key%20Code%20Generator/Site%20Screen%20img/m-2.png?raw=true))<br><br>
-![m-3]([https://media0.giphy.com/media/Vfz6T1y9pYwH4ERhfV/giphy.gif](https://github.com/ahmetmetinarslan/keycodegenerator/blob/main/Key%20Code%20Generator/Site%20Screen%20img/m-3.png?raw=true))<br><br>
+![m-1](https://github.com/ahmetmetinarslan/keycodegenerator/blob/main/Key%20Code%20Generator/Site%20Screen%20img/m-1.png?raw=true)<br><br>
+![m-2](https://github.com/ahmetmetinarslan/keycodegenerator/blob/main/Key%20Code%20Generator/Site%20Screen%20img/m-2.png?raw=true)<br><br>
+![m-3](https://github.com/ahmetmetinarslan/keycodegenerator/blob/main/Key%20Code%20Generator/Site%20Screen%20img/m-3.png?raw=true)<br><br>
