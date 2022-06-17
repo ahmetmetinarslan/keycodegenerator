@@ -8,7 +8,7 @@ An application has been made in this repo that shows the code of the key you pre
 -The site has a responsive design.<br><br>
 
 
-![gif](https://media0.giphy.com/media/Vfz6T1y9pYwH4ERhfV/giphy.gif width:"100px")
+![gif](https://media0.giphy.com/media/Vfz6T1y9pYwH4ERhfV/giphy.gif)
 
 
 Screenshots of the site<br>
